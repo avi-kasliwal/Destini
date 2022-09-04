@@ -1,18 +1,15 @@
+# Destini
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+## Goal
 
-#  Destini
+The goal of this assignment is to get comfortable with implementing the MVC design pattern and thinking about the state of the app.
 
-## Our Goal
+## What will be created in the assignment
 
-The goal of this challenge is to get you comfortable with implementing the MVC design pattern and thinking about the state of your app. In addition, you will be reviewing the concept of Swift Structures and using it to separate the Model from the Controller. 
-
-## What you will create
-
-In this app, you will be creating a “choose your own adventure” game similar to the App Store hit “Life Line” app. The app will tell a story depending on what the user chooses and can be fleshed out and modified to provide an engaging story-telling experience
-
+In this app, we will be creating a “choose your own adventure” game similar to the App Store hit “Life Line” app. The app will tell a story depending on what the user chooses and can be fleshed out and modified to provide an engaging story-telling experience
 
 ## Story Strings
+
 ```
         Story(
             title: "Your car has blown a tire on a winding road in the middle of nowhere with no cell phone reception. You decide to hitchhike. A rusty pickup truck rumbles to a stop next to you. A man with a wide brimmed hat with soulless eyes opens the passenger door for you and asks: 'Need a ride, boy?'.",
@@ -43,9 +40,5 @@ In this app, you will be creating a “choose your own adventure” game similar
             title: "You bond with the murderer while crooning verses of 'Can you feel the love tonight'. He drops you off at the next town. Before you go he asks you if you know any good places to dump bodies. You reply: 'Try the pier.'",
             choice1: "The", choice1Destination: 0,
             choice2: "End", choice2Destination: 0
-        )      
+        )
 ```
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
